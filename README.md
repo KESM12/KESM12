@@ -17,16 +17,6 @@
 
 ---
 
-### 📫 Contáctame
-
-<p align="center">
-  <a href="mailto:tarosecaida@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
 ### 📈 Estadísticas
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
