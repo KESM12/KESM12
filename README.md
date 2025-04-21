@@ -5,7 +5,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kesm12&show_icons=true&locale=en&layout=compact" alt="kesm12" /></p>
+<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kesm12&theme=default&show_icons=true&locale=en&layout=compact" alt="kesm12" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kesm12&show_icons=true&locale=en" alt="kesm12" /></p>
 
