@@ -33,12 +33,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/0df2ff/kesm12" alt="GitHub Contributions Chart" />
-</p>
-
-
-
 
 <!--
 **KESM12/KESM12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
