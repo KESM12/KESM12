@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<h1 align="center">⚡ Hola, soy Secaida 👋</h1>
+<h1 align="center">⚡ Hola, soy Kevin Secaida 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Ingeniero+en+formación+%7C+Apasionado+por+el+Backend;Python+%7C+Go+%7C+Arduino+%7C+Automatización+%7C+Sistemas+Distribuidos;Auxiliar+de+Organización+Computacional+en+USAC&center=true&width=600&height=45&color=00FFFF&vCenter=true">
