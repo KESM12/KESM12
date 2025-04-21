@@ -1,13 +1,38 @@
-<h1 align="center">Hi 👋, I'm Secaida</h1>
+<!-- README.md -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="mailto:tarosecaida@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> </p>
+<h1 align="center">✨ Hola, soy Secaida 👋</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Frontend+%7C+Apasionado+por+la+tecnología;Explorando+el+desarrollo+web+y+más...&center=true&width=500&height=30">
+</p>
 
+---
 
-<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kesm12&theme=default&show_icons=true&locale=en&layout=compact" alt="kesm12" /></p>
+### 📫 Contáctame
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kesm12&show_icons=true&locale=en" alt="kesm12" /></p>
+<p align="center">
+  <a href="mailto:tarosecaida@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+### 📊 Estadísticas
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kesm12&theme=default&show_icons=true&locale=en&layout=compact" alt="Lenguajes por repositorio" />
+
+  <br /><br />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=kesm12&show_icons=true&theme=default&locale=en" alt="Estadísticas de GitHub" />
+</div>
+
+---
+
+<p align="center">
+  Gracias por visitar mi perfil 💖  
+</p>
 
 
 
